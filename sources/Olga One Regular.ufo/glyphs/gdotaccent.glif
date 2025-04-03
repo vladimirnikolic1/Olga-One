@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent" format="2">
+  <advance width="599"/>
+  <unicode hex="0121"/>
+  <outline>
+    <contour>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="150" type="line"/>
+      <point x="366" y="150" type="line" smooth="yes"/>
+      <point x="257" y="150"/>
+      <point x="169" y="237"/>
+      <point x="169" y="347" type="curve" smooth="yes"/>
+      <point x="169" y="456"/>
+      <point x="256" y="544"/>
+      <point x="366" y="544" type="curve" smooth="yes"/>
+      <point x="550" y="544" type="line"/>
+      <point x="550" y="694" type="line"/>
+      <point x="366" y="694" type="line" smooth="yes"/>
+      <point x="181" y="694"/>
+      <point x="20" y="547"/>
+      <point x="20" y="347" type="curve" smooth="yes"/>
+      <point x="20" y="161"/>
+      <point x="168" y="0"/>
+      <point x="366" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="550" y="181" type="line"/>
+      <point x="550" y="422" type="line"/>
+      <point x="216" y="422" type="line"/>
+      <point x="205" y="391"/>
+      <point x="200" y="369"/>
+      <point x="200" y="347" type="curve" smooth="yes"/>
+      <point x="200" y="328"/>
+      <point x="205" y="304"/>
+      <point x="218" y="272" type="curve"/>
+      <point x="399" y="272" type="line"/>
+      <point x="399" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="711" type="curve" smooth="yes"/>
+      <point x="355" y="711"/>
+      <point x="399" y="753"/>
+      <point x="399" y="810" type="curve" smooth="yes"/>
+      <point x="399" y="866"/>
+      <point x="355" y="910"/>
+      <point x="299" y="910" type="curve" smooth="yes"/>
+      <point x="242" y="910"/>
+      <point x="200" y="866"/>
+      <point x="200" y="810" type="curve" smooth="yes"/>
+      <point x="200" y="754"/>
+      <point x="243" y="711"/>
+    </contour>
+  </outline>
+</glyph>
