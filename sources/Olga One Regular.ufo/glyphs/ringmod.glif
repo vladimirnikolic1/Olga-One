@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringmod" format="2">
+  <advance width="293"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="149" y="722" type="curve" smooth="yes"/>
+      <point x="216" y="722"/>
+      <point x="274" y="778"/>
+      <point x="274" y="847" type="curve" smooth="yes"/>
+      <point x="274" y="913"/>
+      <point x="219" y="972"/>
+      <point x="149" y="972" type="curve" smooth="yes"/>
+      <point x="79" y="972"/>
+      <point x="24" y="913"/>
+      <point x="24" y="847" type="curve" smooth="yes"/>
+      <point x="24" y="776"/>
+      <point x="84" y="722"/>
+    </contour>
+    <contour>
+      <point x="149" y="782" type="curve" smooth="yes"/>
+      <point x="112" y="782"/>
+      <point x="84" y="812"/>
+      <point x="84" y="847" type="curve" smooth="yes"/>
+      <point x="84" y="882"/>
+      <point x="112" y="912"/>
+      <point x="149" y="912" type="curve" smooth="yes"/>
+      <point x="186" y="912"/>
+      <point x="214" y="882"/>
+      <point x="214" y="847" type="curve" smooth="yes"/>
+      <point x="214" y="812"/>
+      <point x="186" y="782"/>
+    </contour>
+  </outline>
+</glyph>
