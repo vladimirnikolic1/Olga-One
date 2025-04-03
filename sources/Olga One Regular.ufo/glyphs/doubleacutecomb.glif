@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleacutecomb" format="2">
+  <advance width="720"/>
+  <unicode hex="030B"/>
+  <outline>
+    <contour>
+      <point x="278" y="730" type="line"/>
+      <point x="380" y="867" type="line"/>
+      <point x="217" y="867" type="line"/>
+      <point x="110" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="730" type="line"/>
+      <point x="616" y="867" type="line"/>
+      <point x="453" y="867" type="line"/>
+      <point x="346" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>
