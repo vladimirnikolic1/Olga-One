@@ -10,7 +10,7 @@ Olga One has the following axe:
 --- | --- | ---
   wght | 400 | Regular
 
-![Image](documents/image1.png)
+![Image](documents/image2.png)
 
 ## Image License
 The images in this repository are licensed under the CC https://creativecommons.org/licenses/by-sa/4.0/
