@@ -1,6 +1,6 @@
 # Olga One Font
 
-![Image](documents/image3.png)
+![Image](documents/image1.png)
 
 ## Variable Font Axe
 
